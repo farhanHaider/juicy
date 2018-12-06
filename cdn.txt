@@ -1,1 +1,1 @@
-https://cdn.rawgit.com/farhanhdr/juicy/master/css/joosi.css
+https://cdn.jsdelivr.net/gh/farhanhdr/juicy/css/joosi.css
